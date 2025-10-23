@@ -27,13 +27,21 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 ---
 
 ### 2. **Average Trends (Bar Chart)**
-**Description:** average Return on Equity (ROE) and average Profit Margin
-**Insights:**
-- **Best Performer**: Apple stands out with both high ROE and high profit margin, indicating strong efficiency and profitability.
--**Steady Performer**: Microsoft shows moderate ROE and profit margin, reflecting consistent and stable performance.
--**Underperformers**: Netflix has low ROE and profit margin, signaling low efficiency and potential concerns for profitability.
--**Mixed Performance**: Amazon has moderate ROE but low profit margin, suggesting reasonable operational efficiency but weaker profitability.
+**Description**
+This section provides insights into the **average Return on Equity (ROE)** and **average Profit Margin** of selected companies, highlighting their efficiency and profitability.
 
+**Insights**
+- **Best Performer:**  
+  - **Apple** stands out with both high ROE and high profit margin, indicating strong efficiency and profitability.
+  
+- **Steady Performer:**  
+  - **Microsoft** shows moderate ROE and profit margin, reflecting consistent and stable performance.
+  
+- **Underperformers:**  
+  - **Netflix** has low ROE and profit margin, signaling low efficiency and potential concerns for profitability.
+  
+- **Mixed Performance:**  
+  - **Amazon** has moderate ROE but low profit margin, suggesting reasonable operational efficiency but weaker profitability.
 <img width="1102" height="600" alt="row barchart" src="https://github.com/user-attachments/assets/f7cdd751-e570-439d-99a7-49ce4a28c86d" />
   
 
@@ -42,25 +50,30 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 ### 3. **Trading volume**
 **Description:** Donut chart showing each company’s share of total trading volume, highlighting market activity and liquidity.
 
-**Insights:**
-- Companies like Apple and Amazon dominate trading activity, reflecting high investor interest and liquidity.
-  
--Microsoft maintains steady volume, showing consistent market engagement.
-
--Netflix has a smaller share, indicating relatively lower trading activity.
--Overall, the chart highlights which companies are most actively traded, helping investors gauge market interest and potential liquidity for each stock.
+**Insights**
+- **Apple and Amazon** dominate trading activity, reflecting high investor interest and liquidity.
+- **Microsoft** maintains steady volume, showing consistent market engagement.
+- **Netflix** has a smaller share, indicating relatively lower trading activity.
+- Overall, the chart highlights which companies are most actively traded, helping investors gauge market interest and potential liquidity for each stock.
 
 <img width="1092" height="600" alt="newplot (3)" src="https://github.com/user-attachments/assets/6049f994-f6fb-4a53-aa96-4d7270b4f3fb" />
 
 ---
 
 ### 4. **Company Comparison Chart**
-**Description:** Distribution of daily returns across companies, showing each company’s contribution to overall daily return volatility.
+**Description**
+This section illustrates the **distribution of daily returns across companies**, showing each company's contribution to overall daily return volatility.
 
-**Insights:**
--Apple & Microsoft: Largest slices – consistently higher daily returns, indicating strong market activity.
--Amazon: Moderate slice – moderate daily return volatility.
--Netflix: Smallest slice – lower daily returns, suggesting less impact on overall portfolio volatility.
+**Insights**
+- **Apple & Microsoft:**  
+  - Largest slices – consistently higher daily returns, indicating strong market activity.
+  
+- **Amazon:**  
+  - Moderate slice – moderate daily return volatility.
+  
+- **Netflix:**  
+  - Smallest slice – lower daily returns, suggesting less impact on overall portfolio volatility.
+
 
 <img width="1092" height="600" alt="distribution daily return pie chart" src="https://github.com/user-attachments/assets/e13adc2f-e135-4613-95d2-a09ac3aee91d" />
 
