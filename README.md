@@ -29,22 +29,24 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 ### 2. **Average Trends (Bar Chart)**
 **Description:** average Return on Equity (ROE) and average Profit Margin
 **Insights:**
-- Best Performer: Apple stands out with both high ROE and high profit margin, indicating strong efficiency and profitability.
--Steady Performer: Microsoft shows moderate ROE and profit margin, reflecting consistent and stable performance.
--Underperformers: Netflix has low ROE and profit margin, signaling low efficiency and potential concerns for profitability.
--Mixed Performance: Amazon has moderate ROE but low profit margin, suggesting reasonable operational efficiency but weaker profitability.
+- **Best Performer**: Apple stands out with both high ROE and high profit margin, indicating strong efficiency and profitability.
+-**Steady Performer**: Microsoft shows moderate ROE and profit margin, reflecting consistent and stable performance.
+-**Underperformers**: Netflix has low ROE and profit margin, signaling low efficiency and potential concerns for profitability.
+-**Mixed Performance**: Amazon has moderate ROE but low profit margin, suggesting reasonable operational efficiency but weaker profitability.
 
 <img width="1102" height="600" alt="row barchart" src="https://github.com/user-attachments/assets/f7cdd751-e570-439d-99a7-49ce4a28c86d" />
   
 
 ---
 
-### 3. **Tading volume**
+### 3. **Trading volume**
 **Description:** Donut chart showing each company’s share of total trading volume, highlighting market activity and liquidity.
 
 **Insights:**
 - Companies like Apple and Amazon dominate trading activity, reflecting high investor interest and liquidity.
+  
 -Microsoft maintains steady volume, showing consistent market engagement.
+
 -Netflix has a smaller share, indicating relatively lower trading activity.
 -Overall, the chart highlights which companies are most actively traded, helping investors gauge market interest and potential liquidity for each stock.
 
