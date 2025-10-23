@@ -21,46 +21,59 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 - **Netflix:** Highly volatile post-2020 with sharp peaks and corrections.  
 - **Overall:** Tech giants maintain strong upward momentum, with Netflix showing the highest risk/reward profile.
 
----
+  <img width="1092" height="615" alt="closing price chart" src="https://github.com/user-attachments/assets/9ea9805d-18dd-4d38-b3c1-1946a3f23179" />
 
-### 2. **Volume Trends (Bar/Line Chart)**
-**Description:** Trading volume plotted across time for selected stocks.
-
-**Insights:**
-- Volume spikes align with **earnings releases** or **major announcements**.  
-- **Netflix** exhibits extreme trading activity during volatile periods.  
-- **Apple/Microsoft:** Stable trading volumes showing consistent investor confidence.
 
 ---
 
-### 3. **Moving Average Plot (50-day & 200-day)**
-**Description:** Short-term and long-term moving averages for trend analysis.
+### 2. **Average Trends (Bar Chart)**
+**Description:** average Return on Equity (ROE) and average Profit Margin
+**Insights:**
+- Best Performer: Apple stands out with both high ROE and high profit margin, indicating strong efficiency and profitability.
+-Steady Performer: Microsoft shows moderate ROE and profit margin, reflecting consistent and stable performance.
+-Underperformers: Netflix has low ROE and profit margin, signaling low efficiency and potential concerns for profitability.
+-Mixed Performance: Amazon has moderate ROE but low profit margin, suggesting reasonable operational efficiency but weaker profitability.
+
+<img width="1102" height="600" alt="row barchart" src="https://github.com/user-attachments/assets/f7cdd751-e570-439d-99a7-49ce4a28c86d" />
+  
+
+---
+
+### 3. **Tading volume**
+**Description:** Donut chart showing each company’s share of total trading volume, highlighting market activity and liquidity.
 
 **Insights:**
-- **Apple/Microsoft:** 50-day MA consistently above 200-day — sustained bullish trend.  
-- **Netflix:** Frequent crossovers (golden/death crosses) due to volatility.  
-- **Amazon:** Intermediate trend changes seen at intervals.
+- Companies like Apple and Amazon dominate trading activity, reflecting high investor interest and liquidity.
+-Microsoft maintains steady volume, showing consistent market engagement.
+-Netflix has a smaller share, indicating relatively lower trading activity.
+-Overall, the chart highlights which companies are most actively traded, helping investors gauge market interest and potential liquidity for each stock.
+
+<img width="1092" height="600" alt="newplot (3)" src="https://github.com/user-attachments/assets/6049f994-f6fb-4a53-aa96-4d7270b4f3fb" />
 
 ---
 
 ### 4. **Company Comparison Chart**
-**Description:** Combined line graph comparing all companies’ stock prices.
+**Description:** Distribution of daily returns across companies, showing each company’s contribution to overall daily return volatility.
 
 **Insights:**
-- **Apple** dominates with the highest price magnitude.  
-- **Microsoft** close behind in consistent growth.  
-- **Amazon:** Moderate upward trend.  
-- **Netflix:** Large oscillations indicate unstable momentum.  
+-Apple & Microsoft: Largest slices – consistently higher daily returns, indicating strong market activity.
+-Amazon: Moderate slice – moderate daily return volatility.
+-Netflix: Smallest slice – lower daily returns, suggesting less impact on overall portfolio volatility.
+
+<img width="1092" height="600" alt="distribution daily return pie chart" src="https://github.com/user-attachments/assets/e13adc2f-e135-4613-95d2-a09ac3aee91d" />
 
 ---
 
 ### 5. **Profit Margin vs. Market Cap (Scatter Plot)**
-**Description:** Relationship between profitability and market valuation.
+**Description:** KPI Comparision.
 
 **Insights:**
 - **Apple:** Outlier with both highest profit margin and market cap.  
 - **Positive correlation** between Profit Margin and Operating Margin.  
 - **Quick Ratio** moderately linked to profitability — liquidity supports efficiency.
+
+  <img width="1092" height="600" alt="scatter" src="https://github.com/user-attachments/assets/9f8714e7-ab16-46c5-8ca4-56d4176d6f9b" />
+
 
 ---
 
@@ -72,15 +85,19 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 - **Quick Ratio ↔ Profit Margin:** Moderate link.  
 - Highlights relationships useful for portfolio and financial health analysis.
 
+  <img width="1092" height="700" alt="heatmap" src="https://github.com/user-attachments/assets/fd9a77b7-28cc-4ea9-941b-c0b9f46af690" />
+
+
 ---
 
-### 7. **Distribution Plot (Histogram/KDE)**
+### 7. **Distribution Plot **
 **Description:** Distribution of daily returns or margins.
 
 **Insights:**
 - **Apple/Microsoft:** Normal distribution — lower volatility.  
 - **Netflix:** Heavy-tailed distribution — high volatility and frequent outliers.  
 - Supports **risk assessment** of return variability.
+<img width="1092" height="600" alt="barchart" src="https://github.com/user-attachments/assets/32c129a3-1156-4767-bde5-698835a7e91a" />
 
 ---
 
@@ -91,6 +108,9 @@ The notebook explores data from multiple technology companies — **Apple, Amazo
 - **Apple/Microsoft:** Smaller wicks, stable growth.  
 - **Netflix:** Large wicks, frequent reversals.  
 - Useful for identifying support/resistance and short-term trading signals.
+
+  <img width="1092" height="600" alt="candlestick chart" src="https://github.com/user-attachments/assets/63b7dab3-f927-49de-9b00-5b61f445e635" />
+
 
 ---
 
